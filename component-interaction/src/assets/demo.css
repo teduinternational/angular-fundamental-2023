@@ -1,0 +1,16 @@
+/* Component Communication cookbook specific styles */
+.seconds {
+    background-color: black;
+    color: red;
+    font-size: 3em;
+    margin: 0.3em 0;
+    text-align: center;
+    width: 1.5em;
+  }
+  
+  
+  /*
+  Copyright Google LLC. All Rights Reserved.
+  Use of this source code is governed by an MIT-style license that
+  can be found in the LICENSE file at https://angular.io/license
+  */
